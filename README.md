@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Job Preview Dashboard
 
-## Getting Started
+Check it out : [Deployed Link](https://job-preview-dashboard-dusky.vercel.app/)
 
-First, run the development server:
+## Demo Video
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<video controls src="Clade Assignment Demo.mp4" title="Title"></video>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Setting up the project locally
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Requirements
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Before getting started, ensure you have the following prerequisites installed:
 
-## Learn More
+- Node.js
+- npm or Yarn package manager
 
-To learn more about Next.js, take a look at the following resources:
+#### Follow these steps to set up the project locally:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1. Clone the Repository
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+    git clone https://github.com/rohits-web03/Job-Preview-Dashboard.git
 
-## Deploy on Vercel
+#### Navigate to Project Directory:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    cd Job-Preview-Dashboard
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 2. Install Dependencies
+
+#### Using npm
+
+    npm install
+
+#### Using Yarn
+
+    yarn install
+
+
+### 3. Run the Development Server
+
+#### Using npm
+    npm run dev
+
+#### Using Yarn
+    yarn dev
+
+The application should start and be accessible at [http://localhost:3000](http://localhost:3000) by default.

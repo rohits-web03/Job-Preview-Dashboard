@@ -6,7 +6,7 @@ import Tabs from "./components/Tabs";
 
 export default function Home() {
   return (
-    <main className="w-full min-h-screen bg-[#FCFCFC]">
+    <main className="w-full min-h-screen">
       <Header />
       <Tabs />
       <section className="w-full flex justify-between items-start gap-0 h-screen">
@@ -14,7 +14,7 @@ export default function Home() {
           <JobPreview />
           <CompanyInfo />
         </div>
-        <div className="w-[25%] h-full bg-[#FCFCFC]">
+        <div className="w-[25%] h-full">
           <Sidebar />
         </div>
       </section>
