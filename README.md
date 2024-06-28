@@ -4,7 +4,7 @@ Check it out : [Deployed Link](https://job-preview-dashboard-dusky.vercel.app/)
 
 ## Demo Video
 
-<video controls src="Clade Assignment Demo.mp4" title="Title"></video>
+<video controls src="public/Clade Assignment Demo.mp4" title="Title"></video>
 
 ## Setting up the project locally
 
